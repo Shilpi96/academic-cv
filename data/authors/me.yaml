@@ -17,12 +17,13 @@ status:
 role: Astrophysicist | Signal Processing • Scientific Computing
 
 bio: |
- I am a solar physicist studying solar eruptions through multiwavelength
+  I am a solar physicist studying solar eruptions through multiwavelength
   observations from space-based missions and ground-based radio observatories.
   My research focuses on solar flares, coronal mass ejections, and energetic
   solar phenomena. I work with complex observational data and enjoy developing
   software tools that transform raw instrument data into calibrated,
   science-ready datasets for advanced scientific analysis.
+
 affiliations:
   - name: Observatoire de Paris
     url: https://www.observatoiredeparis.psl.eu/
@@ -46,3 +47,45 @@ interests:
   - Radio, X-ray, and EUV diagnostics
   - Signal processing and scientific computing
   - Radio instrumentation and calibration
+
+education:
+  - degree: PhD in Astrophysics
+    institution: Trinity College Dublin
+    start: 2020-01-01
+    end: 2024-12-31
+    summary: |
+      Thesis: *Radio Imaging Spectroscopy of Eruptions in the Solar Corona*.
+      Research conducted at the Dublin Institute for Advanced Studies (DIAS).
+
+  - degree: BS-MS Dual Degree
+    institution: Indian Institute of Science Education and Research (IISER) Pune
+    start: 2015-01-01
+    end: 2020-12-31
+    summary: |
+      Master's thesis research conducted in collaboration with the
+      National Centre for Radio Astrophysics (NCRA-TIFR), Pune.
+
+experience:
+  - role: Research Scientist
+    org: Observatoire de Paris
+    start: 2025-02-01
+    summary: |
+      Conduct research using NenuFAR radio observations, with a focus on
+      calibration, imaging spectroscopy, and spectropolarimetric analysis
+      of transient solar radio emission.
+
+  - role: PhD Researcher
+    org: Dublin Institute for Advanced Studies (DIAS)
+    start: 2020-01-01
+    end: 2024-12-31
+    summary: |
+      Investigated solar eruptions using radio imaging spectroscopy and
+      multiwavelength observations from ground- and space-based instruments.
+
+  - role: Master's Thesis Researcher
+    org: IISER Pune & NCRA-TIFR
+    start: 2019-01-01
+    end: 2020-12-31
+    summary: |
+      Worked on radio-interferometric calibration, imaging, and processing
+      of large observational datasets.
