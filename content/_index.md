@@ -19,6 +19,7 @@ sections:
         education: 'Education'
         interests: 'Research Interests'
     design:
+      date_format: '2006'
       background:
         gradient_mesh:
           enable: true
