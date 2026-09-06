@@ -53,7 +53,7 @@ sections:
   # =========================================================
 
   - block: markdown
-    id: Publications
+    id: publications
     content:
       title: 'Selected Publications'
       subtitle: ''
@@ -94,7 +94,7 @@ sections:
   # TALKS & SEMINARS
   # ============================================================
   - block: markdown
-    id: Talks
+    id: talks
     content:
       title: 'Recent Talks & Seminars'
       subtitle: ''
