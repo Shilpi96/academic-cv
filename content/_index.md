@@ -61,7 +61,7 @@ sections:
 
         **Bhunia, S.**, Carley, E. P., & Oberoi, D. (2023). *Imaging-spectroscopy of a band-split Type II solar radio burst with the MWA*. Astronomy & Astrophysics, 670, A169.
 
-        [Google Scholar — Full Publication List](https://scholar.google.com/citations?user=XZoiuWsAAAAJ&hl=en)
+        [Google Scholar — Full Publication List](https://scholar.google.com/citations?user=XZoiuWsAAAAJ)
     design:
       columns: '1'
 
