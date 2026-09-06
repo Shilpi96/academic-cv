@@ -51,16 +51,16 @@ interests:
 education:
   - degree: PhD in Astrophysics
     institution: Trinity College Dublin
-    start: 2020-01-01
-    end: 2024-12-31
+    start: 2020
+    end: 2024
     summary: |
       Thesis: *Radio Imaging Spectroscopy of Eruptions in the Solar Corona*.
       Research conducted at the Dublin Institute for Advanced Studies (DIAS).
 
   - degree: BS-MS Dual Degree
     institution: Indian Institute of Science Education and Research (IISER) Pune
-    start: 2015-01-01
-    end: 2020-12-31
+    start: 2015
+    end: 2020
     summary: |
       Master's thesis research conducted in collaboration with the
       National Centre for Radio Astrophysics (NCRA-TIFR), Pune.
@@ -68,7 +68,7 @@ education:
 experience:
   - role: Research Scientist
     org: Observatoire de Paris
-    start: 2025-02-01
+    start: 2025
     summary: |
       Conduct research using NenuFAR radio observations, with a focus on
       calibration, imaging spectroscopy, and spectropolarimetric analysis
@@ -76,16 +76,16 @@ experience:
 
   - role: PhD Researcher
     org: Dublin Institute for Advanced Studies (DIAS)
-    start: 2020-01-01
-    end: 2024-12-31
+    start: 2020
+    end: 2024
     summary: |
       Investigated solar eruptions using radio imaging spectroscopy and
       multiwavelength observations from ground- and space-based instruments.
 
   - role: Master's Thesis Researcher
     org: IISER Pune & NCRA-TIFR
-    start: 2019-01-01
-    end: 2020-12-31
+    start: 2019
+    end: 2020
     summary: |
       Worked on radio-interferometric calibration, imaging, and processing
       of large observational datasets.
