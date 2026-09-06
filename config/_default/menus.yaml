@@ -20,3 +20,15 @@ main:
   - name: Talks
     url: /#talks
     weight: 50
+
+  - name: Skills
+    url: /#skills
+    weight: 60  
+
+  - name: Awards
+    url: /#awards
+    weight: 70
+
+  - name: Languages
+    url: /#languages
+    weight: 80
