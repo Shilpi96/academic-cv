@@ -33,26 +33,6 @@ sections:
   # ============================================================
   # SELECTED RESEARCH
   # ============================================================
-  - block: markdown
-    id: research
-    content:
-      title: 'Selected Research'
-      subtitle: ''
-      text: |-
-        ### Shock Diagnostics with Radio Imaging Spectroscopy
-
-        Using radio imaging spectroscopy of a band-split Type II burst, I investigated the spatial origin of split-band emission and developed a novel technique to the eﬀective length scale of turbulent density perturbations in the solar corona.
-
-        ### Bursty Particle Acceleration in a Solar Flare
-
-        Combining radio, X-ray, and EUV observations, I investigated the temporal and spatial signatures of bursty electron acceleration and reconstructed the 3D propagation trajectories of radio-emitting electron beams.
-    design:
-      columns: '1'
-
-
-  # ============================================================
-  # SELECTED PUBLICATIONS
-  # ============================================================
   - block: portfolio
     id: research
     content:
@@ -66,6 +46,24 @@ sections:
         enable: false
     design:
       columns: 2
+
+
+    # =========================================================
+  # SELECTED PUBLICATIONS
+  # =========================================================
+
+  - block: markdown
+    content:
+      title: 'Selected Publications'
+      subtitle: ''
+      text: |-
+        **Bhunia, S.** et al. (2025). *Bursty Acceleration and 3D Trajectories of Electrons in a Solar Flare*. Astronomy & Astrophysics, 695, A136.
+
+        **Bhunia, S.**, Carley, E. P., & Oberoi, D. (2023). *Imaging-spectroscopy of a band-split Type II solar radio burst with the MWA*. Astronomy & Astrophysics, 670, A169.
+
+        [Google Scholar — Full Publication List](YOUR-GOOGLE-SCHOLAR-URL)
+    design:
+      columns: '1'
 
 
   # ============================================================
@@ -97,7 +95,7 @@ sections:
   - block: markdown
     id: Talks
     content:
-      title: 'Talks & Seminars'
+      title: 'Recent Talks & Seminars'
       subtitle: ''
       text: |-
         **2026/06 — Invited Talk**  
@@ -107,7 +105,7 @@ sections:
         URSI General Assembly and Scientific Symposium (GASS)
 
         **2025/12 — Oral Presentation**  
-        Solar and Stellar Flares (SALF), Orléans, France
+        Science at Low Frequencies (SALF), Orléans, France
 
         **2025/10 — Invited Seminar**  
         National Centre for Radio Astrophysics (NCRA-TIFR), Pune, India
@@ -121,11 +119,10 @@ sections:
         **2024/02 — Oral Presentation**  
         Royal Astronomical Society Specialist Discussion Meeting, London, UK
 
-        **2023/06 — Oral Presentation**  
-        CESRA Workshop, Hatfield, UK
+        **2024/02 — Invited Seminar**  
+        Mullard Space Science Laboratory, UK
 
-        **2023/04 — Oral Presentation**  
-        European Geosciences Union (EGU) General Assembly, Vienna, Austria
+        
     design:
       columns: '1'
 
