@@ -131,6 +131,7 @@ sections:
   # TECHNICAL SKILLS
   # ============================================================
   - block: markdown
+    id: skills
     content:
       title: 'Technical Skills'
       subtitle: ''
@@ -153,6 +154,7 @@ sections:
   # FELLOWSHIPS & AWARDS
   # ============================================================
   - block: markdown
+    id: awards
     content:
       title: 'Fellowships & Awards'
       subtitle: ''
@@ -175,6 +177,7 @@ sections:
   # LANGUAGES
   # ============================================================
   - block: markdown
+    id: languages
     content:
       title: 'Languages'
       subtitle: ''
