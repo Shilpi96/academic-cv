@@ -53,6 +53,7 @@ sections:
   # =========================================================
 
   - block: markdown
+    id: Publications
     content:
       title: 'Selected Publications'
       subtitle: ''
