@@ -41,7 +41,7 @@ sections:
       text: |-
         ### Shock Diagnostics with Radio Imaging Spectroscopy
 
-        Using radio imaging spectroscopy of a band-split Type II burst, I investigated the spatial and spectral properties of shock-associated radio emission and developed an imaging-based method to probe small-scale density fluctuations in the solar corona.
+        Using radio imaging spectroscopy of a band-split Type II burst, I investigated the spatial origin of split-band emission and developed a novel technique to the eﬀective length scale of turbulent density perturbations in the solar corona.
 
         ### Bursty Particle Acceleration in a Solar Flare
 
