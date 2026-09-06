@@ -13,6 +13,10 @@ main:
     url: /#publications
     weight: 30
 
+  - name: Collaborations
+    url: /#collaborations
+    weight: 40
+
   - name: Talks
     url: /#talks
-    weight: 40
+    weight: 50
