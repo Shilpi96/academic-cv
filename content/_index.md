@@ -69,6 +69,7 @@ sections:
   # COLLABORATIONS & TECHNICAL RESPONSIBILITIES
   # ============================================================
   - block: markdown
+    id: collaborations
     content:
       title: 'Collaborations & Technical Responsibilities'
       subtitle: ''
