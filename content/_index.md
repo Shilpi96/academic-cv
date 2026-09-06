@@ -34,6 +34,7 @@ sections:
   # SELECTED RESEARCH
   # ============================================================
   - block: markdown
+    id: research
     content:
       title: 'Selected Research'
       subtitle: ''
@@ -53,6 +54,7 @@ sections:
   # SELECTED PUBLICATIONS
   # ============================================================
   - block: markdown
+    id: publications
     content:
       title: 'Selected Publications'
       subtitle: ''
@@ -93,6 +95,7 @@ sections:
   # TALKS & SEMINARS
   # ============================================================
   - block: markdown
+    id: Talks
     content:
       title: 'Talks & Seminars'
       subtitle: ''
