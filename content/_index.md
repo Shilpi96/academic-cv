@@ -52,9 +52,9 @@ sections:
   # SELECTED PUBLICATIONS
   # =========================================================
 
-  - block: markdown
-    id: publications
+    - block: markdown
     content:
+      id: publications
       title: 'Selected Publications'
       subtitle: ''
       text: |-
@@ -65,7 +65,6 @@ sections:
         [Google Scholar — Full Publication List](https://scholar.google.com/citations?user=XZoiuWsAAAAJ)
     design:
       columns: '1'
-
 
   # ============================================================
   # COLLABORATIONS & TECHNICAL RESPONSIBILITIES
