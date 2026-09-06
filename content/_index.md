@@ -51,10 +51,9 @@ sections:
     # =========================================================
   # SELECTED PUBLICATIONS
   # =========================================================
-
-    - block: markdown
+  - block: markdown
+    id: publications
     content:
-      id: publications
       title: 'Selected Publications'
       subtitle: ''
       text: |-
