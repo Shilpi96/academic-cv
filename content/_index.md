@@ -53,19 +53,19 @@ sections:
   # ============================================================
   # SELECTED PUBLICATIONS
   # ============================================================
-  - block: markdown
-    id: publications
+  - block: portfolio
+    id: research
     content:
-      title: 'Selected Publications'
+      title: 'Selected Research'
       subtitle: ''
-      text: |-
-        **Bhunia, S.** et al. (2025). *Bursty Acceleration and 3D Trajectories of Electrons in a Solar Flare*. Astronomy & Astrophysics, 695, A136.
-
-        **Bhunia, S.**, Carley, E. P., & Oberoi, D. (2023). *Imaging-spectroscopy of a band-split Type II solar radio burst with the MWA*. Astronomy & Astrophysics, 670, A169.
-
-        [Google Scholar — Full Publication List](YOUR-GOOGLE-SCHOLAR-URL)
+      count: 4
+      filters:
+        folders:
+          - projects
+      archive:
+        enable: false
     design:
-      columns: '1'
+      columns: 2
 
 
   # ============================================================
