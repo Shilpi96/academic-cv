@@ -149,20 +149,6 @@ sections:
     design:
       columns: '1'
 
-
-  # ============================================================
-  # LANGUAGES
-  # ============================================================
-  - block: markdown
-    content:
-      title: 'Languages'
-      subtitle: ''
-      text: |-
-        **Bengali** — Native · **English** — Fluent · **Hindi** — Fluent · **French** — Beginner
-    design:
-      columns: '1'
-
-
   # ============================================================
   # FELLOWSHIPS & AWARDS
   # ============================================================
@@ -184,5 +170,20 @@ sections:
         Department of Science and Technology, Government of India, supporting the BS-MS dual degree programme.
     design:
       columns: '1'
+
+  # ============================================================
+  # LANGUAGES
+  # ============================================================
+  - block: markdown
+    content:
+      title: 'Languages'
+      subtitle: ''
+      text: |-
+        **Bengali** — Native · **English** — Fluent · **Hindi** — Fluent · **French** — Beginner
+    design:
+      columns: '1'
+
+
+
 
 ---
