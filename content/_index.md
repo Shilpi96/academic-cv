@@ -78,7 +78,7 @@ sections:
 
         Coordinated telescope observation schedules based on scientific requirements, monitored execution of planned observations, and verified successful data acquisition.
 
-        ### Bridging Gaps in Heliospheric Radio Data Analyses
+        ### [Bridging Gaps in Heliospheric Radio Data Analyses](https://lc-radio-workshop.github.io/)
 
         Collaborated with an international team on shared data conventions and interoperable tools for multi-instrument radio observations. Contributor to the open-source `radiospectra` Python package.
 
