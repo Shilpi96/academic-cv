@@ -137,19 +137,18 @@ sections:
       subtitle: ''
       text: |-
         **Signal Processing & Time-Series Analysis**  
-Spectral and time-frequency analysis · transient and quasi-periodic signal analysis · correlation analysis · peak detection · noise and background estimation · feature extraction
+        Spectral and time-frequency analysis · transient and quasi-periodic signal analysis · correlation analysis · peak detection · noise and background estimation
 
         **Scientific Computing & Data Analysis**  
-Python · NumPy · SciPy · pandas · Matplotlib · parallel computing in Python · UNIX/Linux · Git/GitHub · IDL
+        Python · NumPy · SciPy · pandas · Matplotlib · parallel computing in Python · UNIX/Linux · Git/GitHub · IDL
 
         **Numerical & Quantitative Methods**  
-Least-squares optimization · curve fitting · quantitative source characterization
+        Least-squares optimization · curve fitting · quantitative source characterization
 
         **Radio Astronomy & Observational Analysis**  
-Radio interferometry · calibration · imaging spectroscopy · spectropolarimetry · multi-instrument analysis
+        Radio interferometry · calibration · imaging spectroscopy · spectropolarimetry · multi-instrument analysis
     design:
       columns: '1'
-
   # ============================================================
   # FELLOWSHIPS & AWARDS
   # ============================================================
