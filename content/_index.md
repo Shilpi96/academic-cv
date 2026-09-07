@@ -74,15 +74,15 @@ sections:
       title: 'Collaborations & Technical Responsibilities'
       subtitle: ''
       text: |-
-        ### Chief Observer — Irish LOFAR Telescope (I-LOFAR)
+        ### Chief Observer — [Irish LOFAR Telescope (I-LOFAR)](https://lofar.ie)
 
         Coordinated telescope observation schedules based on scientific requirements, monitored execution of planned observations, and verified successful data acquisition.
 
         ### [Bridging Gaps in Heliospheric Radio Data Analyses](https://lc-radio-workshop.github.io/)
 
-        Collaborated with an international team on shared data conventions and interoperable tools for multi-instrument radio observations. Contributor to the open-source `radiospectra` Python package.
+        Collaborated with an international team on shared data conventions and interoperable tools for multi-instrument radio observations. Contributor to the open-source [`radiospectra`](https://zenodo.org/records/20719374) Python package.
 
-        ### Maximising Science from Solar Orbiter's Solar Flare Campaigns
+        ### [Maximising Science from Solar Orbiter’s Solar Flare Campaigns](https://teams.issibern.ch/solarflare/)
 
         Participated in an international team combining Solar Orbiter observations with complementary ground- and space-based measurements to investigate the temporal and spatial evolution of solar flares.
     design:
