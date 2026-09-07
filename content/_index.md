@@ -84,7 +84,7 @@ sections:
 
         ### [Maximising Science from Solar Orbiter’s Solar Flare Campaigns](https://teams.issibern.ch/solarflare/)
 
-        Participated in an international team combining Solar Orbiter observations with complementary ground- and space-based measurements to investigate the temporal and spatial evolution of solar flares.
+        Participated in an international ISSI team investigating the evolution and energetics of solar flares using high-resolution Solar Orbiter/EUI data together with complementary ground- and space-based observations from other instruments.
     design:
       columns: '1'
 
