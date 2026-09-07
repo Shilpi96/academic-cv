@@ -136,17 +136,17 @@ sections:
       title: 'Technical Skills'
       subtitle: ''
       text: |-
-        **Signal Processing & Data Analysis**  
-        Spectral and time-frequency analysis · transient and quasi-periodic signals · autocorrelation and cross-correlation · peak detection · noise and background estimation · feature extraction
+        **Signal Processing & Time-Series Analysis**  
+Spectral and time-frequency analysis · transient and quasi-periodic signal analysis · correlation analysis · peak detection · noise and background estimation · feature extraction
 
-        **Scientific Computing**  
-        Python · NumPy · SciPy · pandas · Matplotlib · UNIX/Linux · Git/GitHub · IDL
+        **Scientific Computing & Data Analysis**  
+Python · NumPy · SciPy · pandas · Matplotlib · parallel computing in Python · UNIX/Linux · Git/GitHub · IDL
 
-        **Quantitative & Spatial Analysis**  
-        Gaussian fitting · spatial analysis · quantitative source characterization
+        **Numerical & Quantitative Methods**  
+Least-squares optimization · curve fitting · quantitative source characterization
 
-        **Instrumentation & Observational Analysis**  
-        Radio interferometry · calibration · imaging spectroscopy · spectropolarimetry · multi-instrument analysis
+        **Radio Astronomy & Observational Analysis**  
+Radio interferometry · calibration · imaging spectroscopy · spectropolarimetry · multi-instrument analysis
     design:
       columns: '1'
 
