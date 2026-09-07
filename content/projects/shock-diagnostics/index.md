@@ -5,4 +5,16 @@ date: 2023-01-01
 draft: false
 ---
 
-Using radio imaging spectroscopy of a band-split Type II solar radio burst, I investigated the spatial origin of the split-band emission and used small-scale variations in the radio source structure to probe density turbulence in the solar corona.
+## Overview
+
+Type II solar radio bursts are signatures of shock waves propagating through
+the solar corona, often associated with coronal mass ejections (CMEs). In
+radio dynamic spectra, they appear as slowly drifting emission lanes as the
+shock travels outward through the decreasing coronal plasma density.
+
+I am particularly interested in using radio imaging spectroscopy to investigate
+two aspects of Type II bursts: the physical origin of **band-split emission**
+and the effects of **coronal density turbulence on the observed radio-source
+motion**. I have explored these questions using high-resolution observations
+from the Murchison Widefield Array (MWA), and they continue to motivate my
+current research at low radio frequencies.
