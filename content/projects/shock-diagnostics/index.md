@@ -35,6 +35,8 @@ front.
 
 Using high-resolution imaging spectroscopy from the Murchison Widefield Array (MWA), I found that the two split-band sources were spatially separated, supporting the latter interpretation for this event. This result has important implications for shock diagnostics, as the upstream–downstream interpretation is commonly used to estimate shock properties such as the Mach number and coronal magnetic-field strength, highlighting the importance of full imaging spectroscopy when interpreting Type II band splitting.
 
+![Type II band-splitting observations with the MWA and SDO/AIA](bandsplit.png)
+
 ## Probing Coronal Density Turbulence
 
 Type II radio sources can show complex, apparently random motion on short
