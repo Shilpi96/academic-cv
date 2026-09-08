@@ -138,9 +138,9 @@ sections:
       text: |-
         **Signal Processing & Time-Series Analysis**  
         Spectral and time-frequency analysis · transient and quasi-periodic signal analysis · correlation analysis · peak detection · noise and background estimation
- 
+
         **Scientific Computing & Software Development**  
-Python · IDL · UNIX/Linux · High-Performance Computing (HPC) · parallel computing in Python · Git/GitHub · open-source software development
+        Python · IDL · UNIX/Linux · High-Performance Computing (HPC) · parallel computing in Python · Git/GitHub · open-source software development
 
         **Numerical & Quantitative Methods**  
         Least-squares optimization · curve fitting · quantitative source characterization
