@@ -22,7 +22,10 @@ upstream and downstream regions of the shock. An alternative interpretation
 is that the emission originates from spatially separated regions of the shock
 front.
 
-Using high-resolution imaging spectroscopy from the Murchison Widefield Array (MWA), I found that the two split-band sources were spatially separated, supporting the latter interpretation for this event. This result has important implications for shock diagnostics, as the upstream–downstream interpretation is commonly used to estimate shock properties such as the Mach number and coronal magnetic-field strength, highlighting the importance of full imaging spectroscopy when interpreting Type II band splitting.
+In **[Bhunia et al. (2023)](https://doi.org/10.1051/0004-6361/202244456)**,
+I used high-resolution imaging spectroscopy from the Murchison Widefield Array
+(MWA) and found that the two split-band sources were spatially separated,
+supporting the latter interpretation for this event. This result has important implications for shock diagnostics, as the upstream–downstream interpretation is commonly used to estimate shock properties such as the Mach number and coronal magnetic-field strength, highlighting the importance of full imaging spectroscopy when interpreting Type II band splitting.
 
 <div style="text-align: center;">
   <img src="bandsplit.png" alt="Type II band-splitting observations with the MWA and SDO/AIA" style="width: 65%;">
