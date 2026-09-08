@@ -40,3 +40,6 @@ correlation of the source motion changes with frequency separation, I developed
 a technique to estimate the effective length scale of turbulent density
 perturbations in the solar corona, obtaining a scale of approximately **1–2 Mm**
 for this event.
+<div style="text-align: center;">
+  <img src="arrow_plot.png" alt="Type II band-splitting observations with the MWA and SDO/AIA" style="width: 85%;">
+</div>
