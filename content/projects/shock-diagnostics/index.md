@@ -7,14 +7,7 @@ draft: false
 
 ## Overview
 
-Type II solar radio bursts are signatures of shock waves driven by solar eruptive events such as 
-coronal mass ejections (CMEs), flares, and jets. These bursts often exhibit a variety of structures with distinct temporal
-and spectral characteristics. I am particularly interested in understanding
-these structures from two perspectives. The first is **band splitting**, where
-the fundamental and/or harmonic emission can split into two 
-lanes. The second is the fine-scale temporal and spatial behaviour of the radio
-sources, and what these variations can reveal about **density turbulence in
-the solar corona**.
+Type II solar radio bursts are signatures of shock waves driven by solar eruptive events such as coronal mass ejections (CMEs), flares, and jets. These bursts often exhibit a variety of structures with distinct temporal and spectral characteristics. Understanding these fine structures is important for investigating the physical properties of coronal shocks, shock-accelerated electrons, and the plasma environment through which the radio emission propagates. I am particularly interested in understanding these structures from two perspectives. The first is **band splitting**, where the fundamental and/or harmonic emission can split into two lanes. The second is the fine-scale temporal and spatial behaviour of the radio sources, and what these variations can reveal about **density turbulence in the solar corona**.
 
 I investigate these aspects using high-resolution radio imaging spectroscopy,
 which makes it possible to connect structures observed in the dynamic spectrum
