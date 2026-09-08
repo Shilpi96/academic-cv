@@ -2,6 +2,8 @@
 title: "Bursty Particle Acceleration in a Solar Flare"
 summary: "Investigating bursty electron acceleration and 3D electron-beam trajectories using radio, X-ray, and EUV observations."
 date: 2025-01-01
+show_date: false
+reading_time: false
 draft: false
 ---
 
