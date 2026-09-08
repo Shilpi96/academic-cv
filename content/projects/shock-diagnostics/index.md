@@ -2,6 +2,8 @@
 title: "Shock Diagnostics with Radio Imaging Spectroscopy"
 summary: "Investigating band-split Type II radio emission and coronal density turbulence using radio imaging spectroscopy."
 date: 2023-01-01
+show_date: false
+reading_time: false
 draft: false
 ---
 
