@@ -28,9 +28,10 @@ solar corona.
 <div style="text-align: center;">
   <img src="featured.png" alt="Multi-instrument X-ray and radio observations of the flare showing the temporal relationship between HXR peaks and radio bursts" style="width: 65%;">
 </div>
+
 ## Bursty Electron Acceleration
 
-In **Bhunia et al. (2025)**, I investigated a flare that exhibited several
+In **[Bhunia et al. (2025)](https://doi.org/10.1051/0004-6361/202451426)**, I investigated a flare that exhibited several
 distinct non-thermal HXR peaks. Imaging these individual peaks with STIX
 revealed non-thermal HXR sources at different locations within the flaring
 region, providing spatial evidence for multiple injections of accelerated
@@ -40,6 +41,10 @@ Together with the multiple radio bursts observed during the flare, these
 temporal and spatial signatures point to a bursty and fragmented electron
 acceleration process.
 
+<div style="text-align: center;">
+  <img src="stix_img.png" alt="STIX hard X-ray source locations during different non-thermal peaks of the flare" style="width: 75%;">
+</div>
+
 ## Tracing Electron-Beam Trajectories in 3D
 
 To track the flare-accelerated electrons into the upper corona, I reconstructed
@@ -47,6 +52,10 @@ the 3D trajectories of individual radio bursts using imaging observations from
 the Nançay Radioheliograph (NRH) together with a coronal density model. The
 electron beams followed distinct trajectories, indicating propagation along
 different open and closed magnetic field lines.
+
+<div style="text-align: center;">
+  <img src="all_brsts.png" alt="Reconstructed 3D trajectories of radio-emitting electron beams" style="width: 75%;">
+</div>
 
 The HXR and radio source locations also showed correlated changes during the
 flare, suggesting a common acceleration source for the X-ray- and radio-emitting
