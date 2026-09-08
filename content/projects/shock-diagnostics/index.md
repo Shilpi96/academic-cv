@@ -7,20 +7,16 @@ draft: false
 
 ## Overview
 
-Type II solar radio bursts are signatures of shock waves propagating through
-the solar corona, often associated with coronal mass ejections (CMEs). In
-radio dynamic spectra, they appear as slowly drifting emission lanes as the
-shock travels outward through the decreasing coronal plasma density.
-
-Type II bursts often exhibit a variety of structures with distinct temporal
+Type II solar radio bursts are signatures of shock waves driven by solar eruptive events such as 
+coronal mass ejections (CMEs), flares, and jets. These bursts often exhibit a variety of structures with distinct temporal
 and spectral characteristics. I am particularly interested in understanding
 these structures from two perspectives. The first is **band splitting**, where
-the fundamental and/or harmonic emission can split into two nearly parallel
+the fundamental and/or harmonic emission can split into two 
 lanes. The second is the fine-scale temporal and spatial behaviour of the radio
 sources, and what these variations can reveal about **density turbulence in
 the solar corona**.
 
-I investigate these questions using high-resolution radio imaging spectroscopy,
+I investigate these aspects using high-resolution radio imaging spectroscopy,
 which makes it possible to connect structures observed in the dynamic spectrum
 with the spatial behaviour of their corresponding radio sources.
 
@@ -36,13 +32,13 @@ front.
 Using high-resolution imaging spectroscopy from the Murchison Widefield Array (MWA), I found that the two split-band sources were spatially separated, supporting the latter interpretation for this event. This result has important implications for shock diagnostics, as the upstream–downstream interpretation is commonly used to estimate shock properties such as the Mach number and coronal magnetic-field strength, highlighting the importance of full imaging spectroscopy when interpreting Type II band splitting.
 
 <div style="text-align: center;">
-  <img src="bandsplit.png" alt="Type II band-splitting observations with the MWA and SDO/AIA" style="width: 75%;">
+  <img src="bandsplit.png" alt="Type II band-splitting observations with the MWA and SDO/AIA" style="width: 65%;">
 </div>
 
 ## Probing Coronal Density Turbulence
 
 Type II radio sources can show complex, apparently random motion on short
-timescales. Interestingly, for this Type II burst, the source motion was
+timescales. In the Type II burst studied here, the source motion was
 systematically correlated across nearby frequencies.
 
 These correlated position shifts provide a way to probe density fluctuations
